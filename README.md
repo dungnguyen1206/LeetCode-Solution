@@ -11,6 +11,6 @@ This repository contains my solutions to LeetCode problems.
 - Prepare for technical interviews
 
 ## Progress
-- Easy: 0
+- Easy: 1
 - Medium: 0
 - Hard: 0
