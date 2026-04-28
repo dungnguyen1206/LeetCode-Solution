@@ -12,5 +12,5 @@ This repository contains my solutions to LeetCode problems.
 
 ## Progress
 - Easy: 1
-- Medium: 0
+- Medium: 1
 - Hard: 0
